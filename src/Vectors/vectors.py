@@ -3,7 +3,7 @@ VECTORES
 Desarrollado por alphydev - Alphystica Developement Departament
 '''
 
-from alphysics.core.points import Point
+from src.Points.points import Point
 from math import cos, sin
 
 class Vector(Point):
